@@ -26,7 +26,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Nest.js basic authentication template with ready auth endpoints to begin building a RESTful API providing password encryption, session expiration by setting cookies and ready to build user and roles tables
 
 ## Installation
 
